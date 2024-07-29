@@ -11,7 +11,7 @@
   <a href="mailto:nmohamedriyazkhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
   <a href="https://www.linkedin.com/in/mohamedriyazkhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 - ⚡ Fun fact **I know Arabic to read but not to speak**
-## Skills and Expertise
+## Skills and Expertise:
 
 ### 𝘿𝙖𝙩𝙖 𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨:
 
@@ -130,20 +130,6 @@
 ![Heroku](https://img.shields.io/badge/Heroku-6762A6) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5)
+## I Code In:
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/riyaz.8teen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riyaz.8teen" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaz18&label=Profile%20views&color=0e75b6&style=flat" alt="riyaz18" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaz18&show_icons=true&locale=en&layout=compact" alt="riyaz18" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyaz18&show_icons=true&locale=en" alt="riyaz18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaz18&" alt="riyaz18" /></p>
