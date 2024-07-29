@@ -131,5 +131,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5)
 ## I Code In:
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
+<div style="display: flex; gap: 10px;"><img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/></div>
+
+
 
